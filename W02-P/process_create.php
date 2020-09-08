@@ -1,4 +1,4 @@
-<<?php
+<?php
   $link = mysqli_connect("localhost","root","rootroot","dbp_hw");
 
   $query = "
