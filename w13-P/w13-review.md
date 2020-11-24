@@ -24,4 +24,4 @@
 
 
 
-[동영상 동작 링크](https://youtu.be/oOz9unu1-IM)
+[동영상 동작 링크](https://youtu.be/eOzo0qmDVzU)
