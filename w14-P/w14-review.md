@@ -23,4 +23,4 @@
 
 ### 동영상
 - 수업시간에 예시로 사용한 board를 다시 생성, 조회, 수정, 삭제해 보았다.
-[동영상 동작 링크](https://youtu.be/eOzo0qmDVzU)
+[동영상 동작 링크](https://youtu.be/MYPQJRO-45M)
